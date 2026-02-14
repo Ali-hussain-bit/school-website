@@ -1713,7 +1713,7 @@ pre code {
 }
 
 .table-hover .table-danger:hover {
-  background-color: #f1b0b7;
+  background-color: #d11023;
 }
 
 .table-hover .table-danger:hover > td,
@@ -1724,7 +1724,7 @@ pre code {
 .table-light,
 .table-light > th,
 .table-light > td {
-  background-color: #fdfdfe;
+  background-color: #e5e5e9;
 }
 
 .table-light th,
