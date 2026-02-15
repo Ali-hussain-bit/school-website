@@ -2372,7 +2372,7 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #5e100a;
+  background-color: #8f241d;
   border-color: #610a0a;
 }
 
@@ -9849,7 +9849,7 @@ a.text-dark:hover, a.text-dark:focus {
 .testimonial-carousel .owl-dot {
   display: inline-block;
   margin: 0 5px;
-  width: 12px;
+  width: 13px;
   height: 12px;
   border-radius: 10px;
   background: #dddddd;
